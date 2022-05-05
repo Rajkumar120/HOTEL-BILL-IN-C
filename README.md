@@ -54,10 +54,8 @@ void main()
             softdrinks();
             break;
         default:
-
-main();
-
-            printf("\nInvalid choice of food items\n");
+        main();
+        printf("\nInvalid choice of food items\n");
         }
         printf("\nDo u want to order some more food items:\n");
         printf("1.Yes\n2. No\n");
